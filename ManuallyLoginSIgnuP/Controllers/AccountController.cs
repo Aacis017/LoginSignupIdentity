@@ -59,7 +59,7 @@ namespace ManuallyLoginSIgnuP.Controllers
             if(ModelState.IsValid)
             {
                 var user =new IdentityUser { UserName=model.Email, Email=model.Email };
-                var result = await userManager.CreateAsync(user,model.Password);
+                var result = await userManager.CreateAsync(user, model.Password);
 
                 if (result.Succeeded)
                 {

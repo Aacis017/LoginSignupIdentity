@@ -17,6 +17,7 @@ builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
 ).AddEntityFrameworkStores<AppDbContext>();
 
 //overriding password default settings  or we can directly do in AddIdentity property above
+
 //builder.Services.Configure<IdentityOptions>(options =>
 //{
 //    options.Password.RequireNonAlphanumeric = true;

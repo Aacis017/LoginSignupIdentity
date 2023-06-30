@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "W:\\Riddha\\LoginSignupIdentity\\ManuallyLoginSIgnuP\\ManuallyLoginSIgnuP.csproj": {}
+    "W:\\Riddha\\Practice\\LoginSignupIdentity\\ManuallyLoginSIgnuP\\ManuallyLoginSIgnuP.csproj": {}
   },
   "projects": {
-    "W:\\Riddha\\LoginSignupIdentity\\ManuallyLoginSIgnuP\\ManuallyLoginSIgnuP.csproj": {
+    "W:\\Riddha\\Practice\\LoginSignupIdentity\\ManuallyLoginSIgnuP\\ManuallyLoginSIgnuP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "W:\\Riddha\\LoginSignupIdentity\\ManuallyLoginSIgnuP\\ManuallyLoginSIgnuP.csproj",
+        "projectUniqueName": "W:\\Riddha\\Practice\\LoginSignupIdentity\\ManuallyLoginSIgnuP\\ManuallyLoginSIgnuP.csproj",
         "projectName": "ManuallyLoginSIgnuP",
-        "projectPath": "W:\\Riddha\\LoginSignupIdentity\\ManuallyLoginSIgnuP\\ManuallyLoginSIgnuP.csproj",
+        "projectPath": "W:\\Riddha\\Practice\\LoginSignupIdentity\\ManuallyLoginSIgnuP\\ManuallyLoginSIgnuP.csproj",
         "packagesPath": "C:\\Users\\dhaka\\.nuget\\packages\\",
-        "outputPath": "W:\\Riddha\\LoginSignupIdentity\\ManuallyLoginSIgnuP\\obj\\",
+        "outputPath": "W:\\Riddha\\Practice\\LoginSignupIdentity\\ManuallyLoginSIgnuP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dhaka\\AppData\\Roaming\\NuGet\\NuGet.Config",

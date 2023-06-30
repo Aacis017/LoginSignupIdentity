@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NHzT5aj8eIS/76P6OUQxCVyHYwedBWLYxyWz5NognBzMpRkKzKnc5K0KjScaI3opeMZ9pqVjVdQCjP/RvNrstw==",
+  "dgSpecHash": "AlZ1HgUqLZ91qkkIRUMUU2rQBqWDmGx3P5h7rHiOJh5v2kTvhWEd6cIpmpdVVtWClCuznx1KMmEYPYK2AM9GNA==",
   "success": true,
-  "projectFilePath": "W:\\Riddha\\LoginSignupIdentity\\ManuallyLoginSIgnuP\\ManuallyLoginSIgnuP.csproj",
+  "projectFilePath": "W:\\Riddha\\Practice\\LoginSignupIdentity\\ManuallyLoginSIgnuP\\ManuallyLoginSIgnuP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dhaka\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\dhaka\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
